@@ -1,6 +1,6 @@
 # NETWORKWALKS-B084C-WEEK2-CYBERSECURITY-LAB-WP2
 Completed The Second week project in NetworkWalks.
-# WEEK 2 SECURITY ASSESSMENT REPORT
+# WEEK-2 PROJECT MODULE-1 REPORT
 ## RECONNAISSANCE, FOOTPRINTING & NETWORK SCANNING
 
 ---
@@ -173,25 +173,23 @@ enabled the Legend and exported the
 network topology as a PDF.
 
 ### Results
-![Output](/Screenshot2026-11-13_192703.png)
+![Output](/Screenshot_2026-11-13_192703.png)
 
-![Output](/Screenshot2026-11-13_194216.png)
+![Output](/Screenshot_2026-11-13_194216.png)
 
-![Output](/Screenshot2026-11-13_201327.png)
+![Output](/Screenshot_2026-11-13_201327.png)
 
 ### Practice Lab Result
 
 Successfully completed the Zenmap practice
-lab with a score of 100% on re-attempt.
+lab with a score of 100% .
 
 
-## 10. AUTHOR DETAILS
+## 10. PROJECT DONE BY :
 
 **Name:** YOGESHWARAN S
 
 **Batch:** B084C
-
-**GitHub:** https://github.com/YOGESHcyber/INFOZATECH
 
 **LinkedIn:** https://www.linkedin.com/in/yogeshwaran-s-1b2038386/
 
